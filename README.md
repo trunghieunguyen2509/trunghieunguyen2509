@@ -1,9 +1,7 @@
 ## Hi there 👋
-
-<!--
-**trunghieunguyen2509/trunghieunguyen2509** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+# About me
+👋 Hey, I’m William — an aspiring Business Data Analyst!
+Welcome to my “sandbox” — a messy, curious corner of the internet where I share my projects, experiments, and the random data rabbit holes I dive into.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
