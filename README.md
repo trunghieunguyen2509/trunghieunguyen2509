@@ -15,11 +15,7 @@ Technologies and skills
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/tableau.svg" width="40" alt="Tableau"/>
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/python.svg" width="40" alt="Python"/>
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/csharp.svg" width="40" alt="C#"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/microsoftexcel.svg" width="40" alt="Excel"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/microsoftpowerquery.svg" width="40" alt="Power Query"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/vba.svg" width="40" alt="VBA"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftssis/microsoftssis-original.svg" width="40" alt="SSIS"/>
-</p>
+
 
 
 
