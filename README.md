@@ -8,13 +8,9 @@ Welcome to my “sandbox” — a messy, curious corner of the internet where I 
 - 👯 I’m looking to collaborate on developing a mobile fitness application powered by AI — blending analytics with health and lifestyle to help people eat, train, and recover smarter.
 
 Technologies and skills
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/microsoftsqlserver.svg" width="40" alt="SQL Server"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/r.svg" width="40" alt="R"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/powerbi.svg" width="40" alt="Power BI"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/tableau.svg" width="40" alt="Tableau"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/python.svg" width="40" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/csharp.svg" width="40" alt="C#"/>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 
 
